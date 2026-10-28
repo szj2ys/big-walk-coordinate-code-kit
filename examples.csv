@@ -1,0 +1,4 @@
+side_code,bottom_code,label
+4166,1899,Published conversion example
+0025,0900,Synthetic leading-zero check
+0000,9999,Synthetic boundary check
